@@ -1,0 +1,113 @@
+div{
+  text-align: center;
+}
+.Head{
+  margin: 50px;
+}
+hr{
+  border-style: dotted none none none;
+  width: 10%;
+  height: 1px;
+  border-width: thick;
+  border-color: grey;
+  margin: 10px auto ;
+
+}
+.SearchBar{
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 19px;
+  width:300px;
+  height: 25px;
+}
+.SignInButton{
+  background-color: #e9007f;
+  border: 0;
+  padding: 5px 7px;
+  margin-left: 900px;
+  border-radius: 7%;
+  text-align: right;
+}
+.NavigationBar{
+  height:45px;
+  width: 100%;
+  background-color: #0E28B7;
+  position: fixed;
+  text-align: left;
+}
+.EmptyBar{
+  height:45px;
+  }
+body{
+  margin: 0;
+  color: #5f6769;
+}
+.TopContainer{
+  text-align: center;
+  padding-top: 35px;
+  background-image: linear-gradient(to top, white, rgba(0,0,255,0.5)),url('BackgroundImage.jpg');
+  margin: 0;
+  }
+img{
+  border-radius: 100%;
+  height: 201px;
+  width: 201px;
+  margin: 0 auto 0 auto;
+}
+.middle-container{
+text-align: center;
+width: 50%;
+margin: auto;
+line-height: 1.5;
+}
+.bottom-container{
+text-align: center;
+width: 100%;
+margin-bottom: 0;
+background-color: #e9007f;
+position: absolute;
+
+}
+h1{;
+  font: italic small-caps bold 16px/2;
+  margin: 0;
+  color: #e9007f;
+  font-size: 40px;
+  opacity: 1;
+}
+h2{
+  color: #3c4245
+}
+
+dl{
+  color: black;
+    font-size: 20px;
+}
+.profile{
+  text-align: center;
+}
+.skills{
+  text-align: center;
+
+}
+a{
+  color: blue;
+  font-style: normal;
+  text-decoration: none;
+  margin: auto 10px;
+}
+.skill-row{
+  text-align: left;
+}
+.ElectricalSkills{
+  float: left;
+}
+.ProgrammingSkills{
+  float: right;
+}
+h3{
+  color: #3c4245;
+}
+.btn:hover{
+  color: green;
+}
